@@ -65,3 +65,6 @@ personal planner at the link below, which you can visit (and bookmark!) on any o
 ```
 https://YOUR_USERNAME.github.io/REPOSITORY_NAME
 ```
+<div align="center">
+<a href="#"><img src="docs/workflow_perms.png" width="60%" /></a>
+</div>
