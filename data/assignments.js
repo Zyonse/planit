@@ -138,6 +138,13 @@ assignments = {
       "dueDate": "2023-01-20T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
+    },
+    {
+      "title": "ICA 2.2.2 Excel 3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-01-20T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
