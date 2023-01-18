@@ -65,11 +65,3 @@ personal planner at the link below, which you can visit (and bookmark!) on any o
 ```
 https://YOUR_USERNAME.github.io/REPOSITORY_NAME
 ```
-
-<br>
-
-## Troubleshooting:
-If you see build errors in Github Actions and your planner isn't updating, make sure it has the proper permissions at the bottom of this page:
-```
-https://github.com/YOUR_USERNAME/REPOSITORY_NAME/settings/actions
-```
