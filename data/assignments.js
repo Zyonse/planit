@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2023-02-08T23:59:00",
       "link": "https://www.gradescope.com/courses/484120",
       "submitted": false
+    },
+    {
+      "title": "Handwritten HW14",
+      "course": "MA 266 ",
+      "dueDate": "2023-02-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/484120",
+      "submitted": false
     }
   ],
   "MA.26600.325": [
