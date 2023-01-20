@@ -150,6 +150,13 @@ assignments = {
       "title": "HW 2 - EX 2 Individual",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-01-20T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2568993/submissions/156360966",
+      "submitted": true
+    },
+    {
+      "title": "HW 3 - EX 3 Individual",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-01-27T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
     },
@@ -157,6 +164,13 @@ assignments = {
       "title": "ICA 2.2.2 Excel 3",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-01-20T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
+    },
+    {
+      "title": "Team: eCard",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-01-23T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
     }
