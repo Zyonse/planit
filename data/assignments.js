@@ -1,83 +1,4 @@
 assignments = {
-  "MA 266 ": [
-    {
-      "title": "HW02 Handgrade",
-      "course": "MA 266 ",
-      "dueDate": "2023-01-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW3",
-      "course": "MA 266 ",
-      "dueDate": "2023-01-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW4",
-      "course": "MA 266 ",
-      "dueDate": "2023-01-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW5",
-      "course": "MA 266 ",
-      "dueDate": "2023-01-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW6",
-      "course": "MA 266 ",
-      "dueDate": "2023-01-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW8",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW9",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW10",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW12",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW13",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    },
-    {
-      "title": "Handwritten HW14",
-      "course": "MA 266 ",
-      "dueDate": "2023-02-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/484120",
-      "submitted": false
-    }
-  ],
   "MA.26600.325": [
     {
       "title": "HW02W",
@@ -164,8 +85,8 @@ assignments = {
       "title": "ICA 2.2.2 Excel 3",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-01-20T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2584534/submissions/156373893",
+      "submitted": true
     },
     {
       "title": "Team: eCard",
