@@ -4,8 +4,8 @@ assignments = {
       "title": "HW02W",
       "course": "MA.26600.325",
       "dueDate": "2023-01-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/484545",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/484545/assignments/2545424/submissions/156473703",
+      "submitted": true
     },
     {
       "title": "HW03W",
