@@ -106,8 +106,8 @@ assignments = {
       "title": "Team: eCard",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-01-23T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2592717/submissions/156672108",
+      "submitted": true
     }
   ]
 };
