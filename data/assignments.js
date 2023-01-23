@@ -115,6 +115,13 @@ assignments = {
       "dueDate": "2023-02-03T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
+    },
+    {
+      "title": "ICA 3.1 - Project 1 Initial Team Notebook",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-01-23T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2599194/submissions/156734524",
+      "submitted": true
     }
   ]
 };
