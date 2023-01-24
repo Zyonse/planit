@@ -122,6 +122,13 @@ assignments = {
       "dueDate": "2023-01-23T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2599194/submissions/156734524",
       "submitted": true
+    },
+    {
+      "title": "EYC 1 - Grand Challenges/Goals",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-06T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
