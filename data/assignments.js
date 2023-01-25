@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2023-01-24T23:59:00",
       "link": "https://www.gradescope.com/courses/482221/assignments/2579939/submissions/157069041",
       "submitted": true
+    },
+    {
+      "title": "HW 3 work submission",
+      "course": "Spring 2023 ECE 20001 - Merge",
+      "dueDate": "2023-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/482221",
+      "submitted": false
     }
   ],
   "wl.202320.ENGR.13000.001": [
