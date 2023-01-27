@@ -157,6 +157,13 @@ assignments = {
       "dueDate": "2023-01-25T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2605922/submissions/157146442",
       "submitted": true
+    },
+    {
+      "title": "ICA 3.3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-01-27T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
