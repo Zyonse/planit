@@ -113,8 +113,8 @@ assignments = {
       "title": "HW 3 - EX 3 Individual",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-01-27T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2584530/submissions/157761830",
+      "submitted": true
     },
     {
       "title": "ICA 2.2.2 Excel 3",
