@@ -164,6 +164,13 @@ assignments = {
       "dueDate": "2023-01-27T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2614932/submissions/157652007",
       "submitted": true
+    },
+    {
+      "title": "HW 4 - PY 1 Individual",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-03T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
