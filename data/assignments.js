@@ -190,8 +190,8 @@ assignments = {
       "title": "HW 4 - PY 1 Individual",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-03T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2618337/submissions/158673298",
+      "submitted": true
     },
     {
       "title": "Project 1 Report and Design Notebook",
