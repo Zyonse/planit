@@ -204,7 +204,7 @@ assignments = {
       "title": "ICA 4.2 ",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-01T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2627707/submissions/158684337",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2627707/submissions/158816411",
       "submitted": true
     }
   ]
