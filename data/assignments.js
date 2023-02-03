@@ -155,8 +155,8 @@ assignments = {
       "title": "Team: Code of Cooperation",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-03T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2592725/submissions/159066058",
+      "submitted": true
     },
     {
       "title": "ICA 3.1 - Project 1 Initial Team Notebook",
