@@ -208,11 +208,11 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "ICA 4.3",
+      "title": "ICA 4.3-OLD",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-03T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2634506/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2634506/submissions/159247400",
+      "submitted": true
     },
     {
       "title": "HW 5 - PY2",
@@ -224,7 +224,14 @@ assignments = {
     {
       "title": "4.3 Extra credit attendance points",
       "course": "wl.202320.ENGR.13000.001",
-      "dueDate": "2023-02-03T11:50:00",
+      "dueDate": "2023-02-03T14:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2635766/submissions/159253758",
+      "submitted": true
+    },
+    {
+      "title": "ICA 4.3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-03T14:00:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
     }
