@@ -169,8 +169,8 @@ assignments = {
       "title": "EYC 1 - Grand Challenges/Goals",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-06T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2605120/submissions/159761528",
+      "submitted": true
     },
     {
       "title": "ICA 3.2",
