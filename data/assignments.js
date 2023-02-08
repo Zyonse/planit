@@ -248,6 +248,13 @@ assignments = {
       "dueDate": "2023-02-06T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2641491/submissions/159837529",
       "submitted": true
+    },
+    {
+      "title": "Exam 1",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-08T13:20:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2645409/submissions/new",
+      "submitted": false
     }
   ]
 };
