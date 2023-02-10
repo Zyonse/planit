@@ -276,6 +276,13 @@ assignments = {
       "dueDate": "2023-02-10T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2655590/submissions/161031042",
       "submitted": true
+    },
+    {
+      "title": "HW 6 - PY3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-17T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
