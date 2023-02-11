@@ -239,8 +239,8 @@ assignments = {
       "title": "HW 5 - PY2",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-10T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2634514/submissions/161277168",
+      "submitted": true
     },
     {
       "title": "4.3 Extra credit attendance points",
