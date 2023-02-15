@@ -288,8 +288,8 @@ assignments = {
       "title": "HW 6 - PY3",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-17T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2658856/submissions/162104135",
+      "submitted": true
     },
     {
       "title": "Project 3 Proposal",
