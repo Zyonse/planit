@@ -327,11 +327,18 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 7 - PY4",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-24T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
+    },
+    {
       "title": "ICA 6.3",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-17T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2676984/submissions/162764681",
+      "submitted": true
     },
     {
       "title": "6.3 Extra credit attendance points",
