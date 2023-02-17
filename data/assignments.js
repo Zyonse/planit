@@ -316,8 +316,8 @@ assignments = {
       "title": "Project 3 Proposal",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-17T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2662465/submissions/162611776",
+      "submitted": true
     },
     {
       "title": "ICA 6.1",
