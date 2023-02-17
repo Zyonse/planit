@@ -325,6 +325,20 @@ assignments = {
       "dueDate": "2023-02-13T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2663717/submissions/161593094",
       "submitted": true
+    },
+    {
+      "title": "ICA 6.3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-17T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
+    },
+    {
+      "title": "6.3 Extra credit attendance points",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-17T11:45:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2678115/submissions/162731746",
+      "submitted": true
     }
   ]
 };
