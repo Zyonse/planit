@@ -337,8 +337,8 @@ assignments = {
       "title": "HW 7 - PY4",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-24T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2676225/submissions/164409194",
+      "submitted": true
     },
     {
       "title": "ICA 6.3",
@@ -353,6 +353,13 @@ assignments = {
       "dueDate": "2023-02-17T11:45:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2678115/submissions/162731746",
       "submitted": true
+    },
+    {
+      "title": "ICA 7.3 (Project 2 Design Notebook in-progress)",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-24T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
