@@ -355,11 +355,18 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 8 - Problem Presentation Method",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-03-03T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
+    },
+    {
       "title": "ICA 7.3 (Project 2 Design Notebook in-progress)",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-02-24T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2696800/submissions/164442535",
+      "submitted": true
     }
   ]
 };
