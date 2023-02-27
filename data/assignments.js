@@ -371,9 +371,9 @@ assignments = {
     {
       "title": "ICA 8.1 - Project 2 Milestone 2",
       "course": "wl.202320.ENGR.13000.001",
-      "dueDate": "2023-02-27T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2701651/submissions/new",
-      "submitted": false
+      "dueDate": "2023-02-27T13:35:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2701651/submissions/165021235",
+      "submitted": true
     }
   ]
 };
