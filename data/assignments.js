@@ -367,6 +367,13 @@ assignments = {
       "dueDate": "2023-02-24T13:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2696800/submissions/164442535",
       "submitted": true
+    },
+    {
+      "title": "ICA 8.1 - Project 2 Milestone 2",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-02-27T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2701651/submissions/new",
+      "submitted": false
     }
   ]
 };
