@@ -95,8 +95,8 @@ assignments = {
       "title": "HW18W",
       "course": "MA.26600.325",
       "dueDate": "2023-03-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/484545",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/484545/assignments/2676680/submissions/165758249",
+      "submitted": true
     }
   ],
   "Spring 2023 ECE 20001 - Merge": [
