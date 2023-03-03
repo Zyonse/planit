@@ -393,8 +393,8 @@ assignments = {
       "title": "ICA 8.3 - Project 2 Demos",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-03T13:25:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2714028/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2714028/submissions/166230339",
+      "submitted": true
     }
   ]
 };
