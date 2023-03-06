@@ -409,6 +409,13 @@ assignments = {
       "dueDate": "2023-03-03T13:25:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2714028/submissions/166230339",
       "submitted": true
+    },
+    {
+      "title": "Exam 2- In Class",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-03-06T14:15:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2720484/submissions/166762900",
+      "submitted": true
     }
   ]
 };
