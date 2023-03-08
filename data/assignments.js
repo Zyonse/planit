@@ -421,8 +421,8 @@ assignments = {
       "title": "Project 2 Final Report",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-08T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2724139/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2724139/submissions/167116599",
+      "submitted": true
     }
   ]
 };
