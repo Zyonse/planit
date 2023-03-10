@@ -435,6 +435,13 @@ assignments = {
       "title": "ICA 9.3 - Ma1",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-10T13:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2729229/submissions/167781453",
+      "submitted": true
+    },
+    {
+      "title": "HW 10 - MA 1",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-03-24T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
     }
