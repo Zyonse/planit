@@ -407,8 +407,8 @@ assignments = {
       "title": "HW 9 - PPM",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-10T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2708086/submissions/167904723",
+      "submitted": true
     },
     {
       "title": "ICA 8.3 - Project 2 Demos",
