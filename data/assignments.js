@@ -470,8 +470,8 @@ assignments = {
       "title": "In-Class Activity 10.1",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-20T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2754610/submissions/169545719",
+      "submitted": true
     },
     {
       "title": "Project 4 Draft Proposal",
