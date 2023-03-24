@@ -486,6 +486,13 @@ assignments = {
       "dueDate": "2023-03-29T11:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2754644/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "10.3 Extra credit attendance points",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-03-24T11:45:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2768619/submissions/170545531",
+      "submitted": true
     }
   ]
 };
