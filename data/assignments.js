@@ -491,8 +491,8 @@ assignments = {
       "title": "ICA 10.3",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-24T13:25:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2767609/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2767609/submissions/170561953",
+      "submitted": true
     },
     {
       "title": "10.3 Extra credit attendance points",
