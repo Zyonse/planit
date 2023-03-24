@@ -470,8 +470,8 @@ assignments = {
       "title": "HW 10 - MA 1",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-24T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2734347/submissions/170434010",
+      "submitted": true
     },
     {
       "title": "In-Class Activity 10.1",
