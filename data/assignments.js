@@ -533,8 +533,8 @@ assignments = {
       "title": "Project 3 - Milestone 2",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-27T13:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2772740/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2772740/submissions/171042526",
+      "submitted": true
     }
   ]
 };
