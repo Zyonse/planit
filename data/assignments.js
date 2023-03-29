@@ -505,8 +505,8 @@ assignments = {
       "title": "Project 4 Draft Proposal",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-29T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2754644/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2754644/submissions/171370113",
+      "submitted": true
     },
     {
       "title": "ICA 10.3",
