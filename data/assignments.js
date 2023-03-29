@@ -540,8 +540,8 @@ assignments = {
       "title": "HW 11",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-03-31T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2780458/submissions/171530352",
+      "submitted": true
     }
   ]
 };
