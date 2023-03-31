@@ -542,6 +542,20 @@ assignments = {
       "dueDate": "2023-03-31T11:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2780458/submissions/171530352",
       "submitted": true
+    },
+    {
+      "title": "ICA 11.3",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-03-31T13:25:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2785251/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 12",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-07T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
