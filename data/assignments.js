@@ -225,6 +225,13 @@ assignments = {
       "dueDate": "2023-03-28T23:59:00",
       "link": "https://www.gradescope.com/courses/482221/assignments/2755163/submissions/171311394",
       "submitted": true
+    },
+    {
+      "title": "HW 12 work submission",
+      "course": "Spring 2023 ECE 20001 - Merge",
+      "dueDate": "2023-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/482221",
+      "submitted": false
     }
   ],
   "wl.202320.ENGR.13000.001": [
@@ -555,6 +562,20 @@ assignments = {
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-04-07T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
+    },
+    {
+      "title": "Project 3 Final Report",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-12T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2798421/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 3 Final Video",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-10T11:30:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2798432/submissions/new",
       "submitted": false
     }
   ]
