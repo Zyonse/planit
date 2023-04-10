@@ -596,7 +596,7 @@ assignments = {
       "title": "Project 3 Final Video",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-04-10T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151/assignments/2798432/submissions/new",
+      "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
     },
     {
