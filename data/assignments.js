@@ -605,6 +605,13 @@ assignments = {
       "dueDate": "2023-04-07T13:25:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
+    },
+    {
+      "title": "Class 13.1 ICA #2",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-10T13:25:00",
+      "link": "https://www.gradescope.com/courses/485151/assignments/2809718/submissions/new",
+      "submitted": false
     }
   ]
 };
