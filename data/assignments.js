@@ -614,7 +614,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "EYC Reflection Journal",
+      "title": "EYC 2 -  Reflection Journal",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-04-17T11:30:00",
       "link": "https://www.gradescope.com/courses/485151",
