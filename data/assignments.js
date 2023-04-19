@@ -661,6 +661,13 @@ assignments = {
       "dueDate": "2023-04-17T11:30:00",
       "link": "https://www.gradescope.com/courses/485151/assignments/2814972/submissions/174174967",
       "submitted": true
+    },
+    {
+      "title": "EYC 3 - Final Reflection",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
