@@ -624,8 +624,8 @@ assignments = {
       "title": "HW 12",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-04-07T11:30:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2786647/submissions/176339731",
+      "submitted": true
     },
     {
       "title": "Project 3 Final Report",
