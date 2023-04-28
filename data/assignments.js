@@ -694,8 +694,8 @@ assignments = {
       "title": "Project 4 Code and Report",
       "course": "wl.202320.ENGR.13000.001",
       "dueDate": "2023-04-28T13:20:00",
-      "link": "https://www.gradescope.com/courses/485151",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/485151/assignments/2852459/submissions/177956603",
+      "submitted": true
     },
     {
       "title": "CIE Course Survey Extra Credit (due Sat 4/29)",
