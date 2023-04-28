@@ -696,6 +696,13 @@ assignments = {
       "dueDate": "2023-04-28T13:20:00",
       "link": "https://www.gradescope.com/courses/485151",
       "submitted": false
+    },
+    {
+      "title": "CIE Course Survey Extra Credit (due Sat 4/29)",
+      "course": "wl.202320.ENGR.13000.001",
+      "dueDate": "2023-04-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/485151",
+      "submitted": false
     }
   ]
 };
